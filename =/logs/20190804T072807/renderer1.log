@@ -1,0 +1,13 @@
+[2019-08-04 07:28:11.442] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/gal1le0/development/tuto/nodejs/APIs/with-psql/.vscode'
+[2019-08-04 07:28:13.473] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-08-04 07:28:18.154] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 99% of 2023.134ms, saved PROFILE here: '/tmp/exthost-c6eafc.cpuprofile' [{"id":"gc","total":6383,"percentage":0},{"id":"program","total":9860,"percentage":0},{"id":"ritwickdey.LiveServer","total":1998867,"percentage":99},{"id":"self","total":4256,"percentage":0}]
+[2019-08-04 20:54:01.006] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:74:652)

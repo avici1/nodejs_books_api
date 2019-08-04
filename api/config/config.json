@@ -1,0 +1,21 @@
+{
+  "development": {
+    "use_env_variable": "DATABASE_URL"
+  },
+  "test": {
+    "username": "rooter",
+    "password": "nAdia123",
+    "database": "nodejs_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "rooter",
+    "password": "nAdia123",
+    "database": "nodejs_1",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}

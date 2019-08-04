@@ -1,0 +1,152 @@
+[Info  - 3:23:16 PM] ESLint server stopped.
+[Info  - 3:23:19 PM] ESLint server running in node v10.2.0
+[Info  - 3:23:19 PM] ESLint server is running.
+[Info  - 3:23:26 PM] ESLint library loaded from: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/node_modules/eslint/lib/api.js
+[Warn  - 3:23:26 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 3:26:59 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 3:27:19 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 3:29:27 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 3:40:39 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 3:40:39 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:00:47 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:00:47 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:10:01 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:10:01 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:17:09 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:17:09 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:24:23 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:48:39 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/book.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 4:52:59 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/services/BookService.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 5:13:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/controllers/BookController.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 6:32:05 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/utils/Util.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 6:46:02 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/routes/BookRoutes.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:34:54 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/test/test.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/book.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/services/BookService.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/utils/Util.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/routes/BookRoutes.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/controllers/BookController.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:57:00 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/test/test.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/eslintrc.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/app.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/book.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/services/BookService.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/utils/Util.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/routes/BookRoutes.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/server/controllers/BookController.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/models/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 8:40:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/gal1le0/development/tuto/nodejs/APIs/with-psql/api/test/test.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder with-psql
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
